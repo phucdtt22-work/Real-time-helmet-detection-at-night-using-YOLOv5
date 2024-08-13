@@ -1,0 +1,6 @@
+train: ../free/images/training
+val: ../free/labels/validation
+#number of classes
+nc: 2
+#class names
+names: ['helmet','no_helmet']
